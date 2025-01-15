@@ -58,7 +58,7 @@ body {
 }
 
 .square {
-  background: #fff;
+  background: red; /* Changed the colour */
   border: 1px solid #999;
   float: left;
   font-size: 24px;
@@ -69,7 +69,7 @@ body {
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 34px;
+  width: 34px; /* Made it wider! */
 }
 
 .board-row:after {
